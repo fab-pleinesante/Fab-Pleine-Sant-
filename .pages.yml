@@ -11,3 +11,4 @@ collections:
           - id: body
             label: Contenu du site
             type: rich-text
+            
