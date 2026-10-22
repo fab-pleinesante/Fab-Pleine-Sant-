@@ -1,7 +1,4 @@
 collections:
   - id: pages
     label: Pages
-    type: files
-
-
-            
+    type: files        
