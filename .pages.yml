@@ -1,0 +1,16 @@
+media:
+  input: ''
+  output: ''
+
+collections:
+  - id: pages
+    label: Pages
+    type: files
+    files:
+      - id: home
+        label: Page d'accueil
+        path: index.html
+        fields:
+          - id: body
+            label: Contenu de la page
+            type: rich-text
