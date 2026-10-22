@@ -2,3 +2,7 @@ collections:
   - id: pages
     label: Pages
     type: files        
+        files:
+      - id: home
+        label: Page d'accueil
+        path: index.html
