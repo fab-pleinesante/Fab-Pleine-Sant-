@@ -1,6 +1,3 @@
-media:
-  input: ""
-  output: ""
 collections:
   - id: pages
     label: Pages
@@ -11,7 +8,7 @@ collections:
         path: index.html
         fields:
           - id: body
-            label: Contenu de la page
+            label: Contenu
             type: rich-text
 
             
