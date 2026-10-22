@@ -1,13 +1,15 @@
 collections:
   - id: pages
     label: Pages
-    type: files        
+    type: files
     files:
       - id: home
         label: Page d'accueil
         path: index.html
+        format: raw
         fields:
-      - id: body
-        label: Contenu
-        type: rich-text
+          - id: body
+            label: Contenu du site
+            type: rich-text
+
 
