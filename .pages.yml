@@ -10,3 +10,4 @@ collections:
           - id: body
             label: Contenu de la page
             type: rich-text
+            
