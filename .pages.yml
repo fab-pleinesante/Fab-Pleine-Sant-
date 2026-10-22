@@ -6,3 +6,8 @@ collections:
       - id: home
         label: Page d'accueil
         path: index.html
+        fields:
+      - id: body
+        label: Contenu
+        type: rich-text
+
