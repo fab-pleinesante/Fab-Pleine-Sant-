@@ -1,7 +1,3 @@
-media:
-  input: ''
-  output: ''
-
 collections:
   - id: pages
     label: Pages
