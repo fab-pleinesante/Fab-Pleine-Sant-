@@ -1,3 +1,6 @@
+media:
+  input: ""
+  output: ""
 collections:
   - id: pages
     label: Pages
@@ -10,4 +13,5 @@ collections:
           - id: body
             label: Contenu de la page
             type: rich-text
+
             
